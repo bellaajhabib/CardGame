@@ -1,0 +1,10 @@
+# volumes
+/logs
+
+/db
+
+/.env.*
+
+# IDE setting
+## PhpStorm
+.idea

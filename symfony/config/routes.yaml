@@ -1,0 +1,3 @@
+cartController:
+    path: /
+    controller: App\Controller\CardController::CardController

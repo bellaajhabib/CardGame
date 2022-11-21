@@ -1,0 +1,210 @@
+[
+  {
+    "suit": "2_of_hearts",
+    "value": 2
+  },
+  {
+    "suit": "3_of_hearts",
+    "value": 3
+  },
+  {
+    "suit": "4_of_hearts",
+    "value": 4
+  },
+  {
+    "suit": "5_of_hearts",
+    "value": 5
+  },
+  {
+    "suit": "6_of_hearts",
+    "value": 6
+  },
+  {
+    "suit": "7_of_hearts",
+    "value": 7
+  },
+  {
+    "suit": "8_of_hearts",
+    "value": 8
+  },
+  {
+    "suit": "9_of_hearts",
+    "value": 9
+  },
+  {
+    "suit": "10_of_hearts",
+    "value": 10
+  },
+  {
+    "suit": "jack_of_hearts2",
+    "value": 11
+  },
+  {
+    "suit": "queen_of_hearts2",
+    "value": 12
+  },
+  {
+    "suit": "king_of_diamonds2",
+    "value": 13
+  },
+  {
+    "suit": "ace_of_hearts",
+    "value": 1
+  },
+  {
+    "suit": "2_of_diamonds",
+    "value": 2
+  },
+  {
+    "suit": "3_of_diamonds",
+    "value": 3
+  },
+  {
+    "suit": "4_of_diamonds",
+    "value": 4
+  },
+  {
+    "suit": "5_of_diamonds",
+    "value": 5
+  },
+  {
+    "suit": "6_of_diamonds",
+    "value": 6
+  },
+  {
+    "suit": "7_of_diamonds",
+    "value": 7
+  },
+  {
+    "suit": "8_of_diamonds",
+    "value": 8
+  },
+  {
+    "suit": "9_of_diamonds",
+    "value": 9
+  },
+  {
+    "suit": "10_of_diamonds",
+    "value": 10
+  },
+  {
+    "suit": "jack_of_diamonds2",
+    "value": 11
+  },
+  {
+    "suit": "queen_of_diamonds2",
+    "value": 12
+  },
+  {
+    "suit": "king_of_diamonds2",
+    "value": 13
+  },
+  {
+    "suit": "ace_of_diamonds",
+    "value": 1
+  },
+  {
+    "suit": "2_of_clubs",
+    "value": 2
+  },
+  {
+    "suit": "3_of_clubs",
+    "value": 3
+  },
+  {
+    "suit": "4_of_clubs",
+    "value": 4
+  },
+  {
+    "suit": "5_of_clubs",
+    "value": 5
+  },
+  {
+    "suit": "6_of_clubs",
+    "value": 6
+  },
+  {
+    "suit": "7_of_clubs",
+    "value": 7
+  },
+  {
+    "suit": "8_of_clubs",
+    "value": 8
+  },
+  {
+    "suit": "9_of_clubs",
+    "value": 9
+  },
+  {
+    "suit": "10_of_clubs",
+    "value": 10
+  },
+  {
+    "suit": "jack_of_clubs2",
+    "value": 11
+  },
+  {
+    "suit": "queen_of_clubs2",
+    "value": 12
+  },
+  {
+    "suit": "king_of_clubs2",
+    "value": 13
+  },
+  {
+    "suit": "ace_of_clubs",
+    "value": 1
+  },
+  {
+    "suit": "2_of_spades",
+    "value": 2
+  },
+  {
+    "suit": "3_of_spades",
+    "value": 3
+  },
+  {
+    "suit": "4_of_spades",
+    "value": 4
+  },
+  {
+    "suit": "5_of_spades",
+    "value": 5
+  },
+  {
+    "suit": "7_of_spades",
+    "value": 6
+  },
+  {
+    "suit": "7_of_spades",
+    "value": 7
+  },
+  {
+    "suit": "8_of_spades",
+    "value": 8
+  },
+  {
+    "suit": "9_of_spades",
+    "value": 9
+  },
+  {
+    "suit": "10_of_spades",
+    "value": 10
+  },
+  {
+    "suit": "jack_of_spades2",
+    "value": 11
+  },
+  {
+    "suit": "queen_of_spades2",
+    "value": 12
+  },
+  {
+    "suit": "king_of_spades2",
+    "value": 13
+  },
+  {
+    "suit": "ace_of_spades",
+    "value": 1
+  }
+]
