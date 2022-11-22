@@ -1,4 +1,4 @@
-docker-symfony5.4
+Docker-Symfony5.4
 ==============
 This is a complete stack for running Symfony 5.4, PHP8.0.18 and using docker-compose tool.
 
